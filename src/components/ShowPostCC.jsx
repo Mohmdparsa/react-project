@@ -33,7 +33,7 @@ class ShowPostCC extends React.Component {
       <>
         <div className="flex items-center justify-center flex-col">
             <div>
-               <h1 className='text-4xl font-bold'>Class Component</h1>  
+               <h1 className='text-2xl md:text-4xl font-bold'>Class Component</h1>  
             </div>
            
           <div className="flex flex-col lg:flex-row bg-gray-400 items-center justify-center rounded-2xl mb-[5rem] w-[70%] lg:w-[95%] mt-[2rem]">
