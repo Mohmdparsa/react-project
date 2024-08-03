@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13770db1.css",
+    "main.js": "/static/js/main.94e79d27.js",
+    "static/js/453.e5b00392.chunk.js": "/static/js/453.e5b00392.chunk.js",
+    "static/media/Volvo XC90.jpg": "/static/media/Volvo XC90.ff1f76c76a49cee96f2e.jpg",
+    "static/media/F40_Ferrari.jpg": "/static/media/F40_Ferrari.c1aa03b4557dc9b38ff4.jpg",
+    "static/media/lamborghini.jpg": "/static/media/lamborghini.ca1562f6e4ee032df53a.jpg",
+    "static/media/1967-Ford-Mustang.jpg": "/static/media/1967-Ford-Mustang.3552f928fd091576f700.jpg",
+    "index.html": "/index.html",
+    "main.13770db1.css.map": "/static/css/main.13770db1.css.map",
+    "main.94e79d27.js.map": "/static/js/main.94e79d27.js.map",
+    "453.e5b00392.chunk.js.map": "/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13770db1.css",
+    "static/js/main.94e79d27.js"
+  ]
+}
